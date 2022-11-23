@@ -11,3 +11,7 @@ Diagram Task004\diagram_task004.drawio.png
 Solution Task006\Program.cs
 
 Diagram Task006\diagram_task006.drawio.png
+
+Solution Task008\Program.cs
+
+Diagram Task008\diagram_task008.drawio.png
